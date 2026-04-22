@@ -8,7 +8,7 @@ This project analyzes how trader performance and behavior change under different
 
 ## 📁 Project Structure
 
-
+```
 project/
 │── data/
 │   ├── historical_data.csv
@@ -20,7 +20,7 @@ project/
 │   ├── pnl_chart.png
 │   ├── winrate_chart.png
 │   ├── drawdown_chart.png
-
+```
 
 ## ⚙️ Setup Instructions
 
@@ -48,12 +48,10 @@ jupyter notebook
 ```
 
 
-```
-
----
 
 ## 📊 Output
 
+```
 The project generates:
 
 * Performance comparison charts (PnL, Win Rate)
@@ -61,26 +59,24 @@ The project generates:
 * Segmentation analysis
 * Interactive dashboard
 
----
-
+```
 ## 🧠 Key Questions Answered
-
+```
 * Does performance differ in Fear vs Greed markets?
 * Do traders change behavior based on sentiment?
 * Which trader segments perform best?
 
 ---
-
+```
 ## 🚀 Technologies Used
-
+```
 * Python (Pandas, NumPy)
 * Visualization (Matplotlib, Seaborn)
-
----
+```
 # 📊 Analysis Summary: Trader Behavior vs Market Sentiment
 
 ## 🔹 Methodology
-
+```
 The analysis combines trade-level data with the Fear & Greed Index to evaluate how trader performance and behavior vary under different market conditions.
 
 Data preprocessing involved:
@@ -97,7 +93,7 @@ Additional analysis included:
 * Consistency analysis based on PnL volatility
 
 ---
-
+```
 ## 🔹 Project Summary
 
 ### 1. Performance differs across sentiment
