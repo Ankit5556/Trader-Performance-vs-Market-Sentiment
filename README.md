@@ -8,7 +8,7 @@ This project analyzes how trader performance and behavior change under different
 
 ## 📁 Project Structure
 
-```
+
 project/
 │── data/
 │   ├── historical_data.csv
@@ -20,8 +20,7 @@ project/
 │   ├── pnl_chart.png
 │   ├── winrate_chart.png
 │   ├── drawdown_chart.png
-|
----
+
 
 ## ⚙️ Setup Instructions
 
